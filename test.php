@@ -1,3 +1,3 @@
 <?php
-	echo 'GitHub Test!!!!!!!!!!!';
+	echo 'Gitてすと中です';
 ?>
